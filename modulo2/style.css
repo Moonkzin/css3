@@ -1,0 +1,27 @@
+/* 
+seletor * é universal
+passar atributos para toda a página
+* {
+  color: blue;
+  font-size: 60px;
+}
+
+
+seletor tag passar a própria tag para o selector
+h1 {
+  color: blue;
+  font-size: 60px;
+}
+
+Seletor por atributo > seletor[atributo] {}
+Seletor
+input[type="text"] {
+  width: 200px;
+  background-color: #ccc;
+}
+
+*/
+input[type="text"] {
+  width: 200px;
+  background-color: #ccc;
+}
